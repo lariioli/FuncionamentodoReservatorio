@@ -42,3 +42,14 @@ public class Program
         {
             Console.WriteLine("Ligar válvula e desligar bomba.");
         }
+         else if(boia1 == 1 || boia2 == 1 || boia3 == 0)
+        {
+            Console.WriteLine("Desligar válvula e ligar bomba.");
+        }
+
+        else if (boia1 == 1 || boia2 == 1 || boia3 == 1)
+        {
+            Console.WriteLine("Desligar válvula e desligar bomba.");
+        }
+    }
+}       
