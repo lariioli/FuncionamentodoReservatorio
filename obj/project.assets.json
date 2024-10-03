@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\Reservatorio\\Reservatorio.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\FuncionamentodoReservatorio\\Reservatorio.csproj",
       "projectName": "Reservatorio",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\Reservatorio\\Reservatorio.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\FuncionamentodoReservatorio\\Reservatorio.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\Reservatorio\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\FuncionamentodoReservatorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\bin\Debug\net8.0\Reservatorio.exe
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\bin\Debug\net8.0\Reservatorio.deps.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\bin\Debug\net8.0\Reservatorio.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\bin\Debug\net8.0\Reservatorio.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\bin\Debug\net8.0\Reservatorio.pdb
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\refint\Reservatorio.dll
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.pdb
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\Reservatorio.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\Larissa\FuncionamentodoReservatorio\obj\Debug\net8.0\ref\Reservatorio.dll
