@@ -28,3 +28,17 @@ public class Program
         {
             Console.WriteLine("Falha na válvula ou na bomba.");
         }
+        else if (boia1 == 0 || boia2 == 1 || boia3 == 1 )
+        {
+            Console.WriteLine("Falha na válvula ou na bomba.");
+        }
+
+        else if(boia1 == 1 || boia2 == 0 || boia3 == 0)
+        {
+            Console.WriteLine("Ligar válvula e ligar bomba.");
+        }
+
+        else if(boia1 == 1 || boia2 == 0 || boia3 == 1)
+        {
+            Console.WriteLine("Ligar válvula e desligar bomba.");
+        }
